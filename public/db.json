@@ -1,0 +1,25 @@
+{
+    "iPhone11Pro": [
+        {
+            "nama" : "iPhone 11 Pro Max",
+            "harga" : " 21.999.000,00"
+        },
+        {
+            "nama" : "iPhone 11 Pro",
+            "harga" : " 19.999.000,00"
+        }
+    ],
+    "iPhone11": [
+        {
+            "nama" : "iPhone 11",
+            "harga" : " 13.499.000,00"
+        }
+    ],
+    "iPhoneXsMax": [
+        {
+            "nama" : "iPhone Xs Max",
+            "harga" : " 17.999.000,00"
+        }
+    ]
+    
+}
